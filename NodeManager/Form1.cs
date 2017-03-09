@@ -20,15 +20,27 @@ namespace NodeManager
         {
             // не зебыть прописать проверку авторизации...
 
-            Form2 f2 = new Form2(this);
-            f2.Show();
-            this.Hide();
+
+            string login = textBox1.Text;
+            string password = textBox2.Text;
             
+            if (login == "mickle" && password == "1234")
+            {
+                Form2 f2 = new Form2(this);
+                f2.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Вы ввели не верный логин или пароль", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            MessageBox.Show("Test");
+            
+
         }
     }
 }
