@@ -9,3 +9,14 @@ C:\Users\student.STEP\Desktop\09032017\NodeManager\NodeManager\obj\Debug\NodeMan
 C:\Users\student.STEP\Desktop\09032017\NodeManager\NodeManager\obj\Debug\NodeManager.csproj.GenerateResource.Cache
 C:\Users\student.STEP\Desktop\09032017\NodeManager\NodeManager\obj\Debug\NodeManager.exe
 C:\Users\student.STEP\Desktop\09032017\NodeManager\NodeManager\obj\Debug\NodeManager.pdb
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.exe
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.pdb
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\bin\Debug\NodeManager.exe
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\bin\Debug\NodeManager.pdb
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.Form1.resources
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.Form2.resources
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.Form3.resources
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.Form4.resources
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\09032017\newPC\NodeManager\NodeManager\obj\Debug\NodeManager.csproj.GenerateResource.Cache
