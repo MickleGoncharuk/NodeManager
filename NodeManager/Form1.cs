@@ -28,7 +28,7 @@ namespace NodeManager
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Test");
         }
     }
 }
